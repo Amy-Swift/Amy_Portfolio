@@ -1,9 +1,9 @@
-###Amanda Swift's Porfolio
+### Amanda Swift's Porfolio
 
 
 ## SQL Samples
 
-[This SQL File is a demonstration of basic SQL competency.] (https://github.com/Amy-Swift/SQL-Sample/blob/main/SQL%20Samples.sql)
+[This SQL File is a demonstration of basic SQL competency.](https://github.com/Amy-Swift/SQL-Sample/blob/main/SQL%20Samples.sql)
 
 It inclused:
 

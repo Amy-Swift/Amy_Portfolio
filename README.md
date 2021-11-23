@@ -1,7 +1,8 @@
 # Amanda Swift's Porfolio
-
+---
 These are portfolio projects to demonstrate competency with Data Analysis and programming techniques 
 
+---
 ## SQL Samples
 
 [This SQL File is a demonstration of basic SQL competency.](https://github.com/Amy-Swift/SQL-Sample/blob/main/SQL%20Samples.sql)
@@ -16,7 +17,7 @@ It includes:
 - And other Select queries
 
 
-
+---
 ## SQL and Tablaeu Games Sales Project
 
 - Sourced data on Xbox and Playstation games sales from Kaggle.com data sets.

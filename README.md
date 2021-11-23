@@ -28,3 +28,4 @@ It includes:
 
 [This is the SQL file.](https://github.com/Amy-Swift/Game-Sales-Project/blob/main/my%20Game%20Data%20setup.sql)
 
+---

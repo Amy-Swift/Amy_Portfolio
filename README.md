@@ -1,4 +1,4 @@
-### Amanda Swift's Porfolio
+# Amanda Swift's Porfolio
 
 
 ## SQL Samples

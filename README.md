@@ -5,7 +5,7 @@
 
 [This SQL File is a demonstration of basic SQL competency.](https://github.com/Amy-Swift/SQL-Sample/blob/main/SQL%20Samples.sql)
 
-It inclused:
+It includes:
 
 - Table creation
 - Addind entries to tables

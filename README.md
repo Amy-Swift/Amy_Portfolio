@@ -28,17 +28,17 @@ It includes:
 - Performed data queries using SQL.
 - Exported joined data sets for visualization in Tableau.
 
-Bar Graph compares games sales across game genres
+[Bar Graph compares games sales across game genres](https://github.com/Amy-Swift/Game-Sales-Project/blob/main/game%20bar%20graph.PNG)
 
-![Bar Graph](https://github.com/Amy-Swift/Game-Sales-Project/blob/main/game%20bar%20graph.PNG)
+!(https://github.com/Amy-Swift/Game-Sales-Project/blob/main/game%20bar%20graph.PNG)
 
-This graph shows games sales across genres
+[This graph shows games sales across genres](https://github.com/Amy-Swift/Game-Sales-Project/blob/main/Game%20Single%20axis%20bar.PNG)
 
-![Single axis bar graph](https://github.com/Amy-Swift/Game-Sales-Project/blob/main/Game%20Single%20axis%20bar.PNG)
+!(https://github.com/Amy-Swift/Game-Sales-Project/blob/main/Game%20Single%20axis%20bar.PNG)
 
-This packed bubble graph compares games sales across game publishers, showing how the bigger companies compare to the market shares across all publishers.
+[This packed bubble graph compares games sales across game publishers, showing how the bigger companies compare to the market shares across all publishers.](https://github.com/Amy-Swift/Game-Sales-Project/blob/main/Game%20publishers%20packed%20bubbles.PNG)
 
-![Packed Bubbles](https://github.com/Amy-Swift/Game-Sales-Project/blob/main/Game%20publishers%20packed%20bubbles.PNG)
+!(https://github.com/Amy-Swift/Game-Sales-Project/blob/main/Game%20publishers%20packed%20bubbles.PNG)
 
 
 
